@@ -1,6 +1,6 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Antigua Syndicate
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -21,8 +21,8 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/fresh.svg
-    link: /
+    #image: logos/fresh.svg (Take off the "#" in order to put the logo back)
+    #link: /   (Take off the "#" in order to put the logo back)
     # Default width/height. Uncomment if you need to change
     # width: 112
     # height: 28
@@ -31,9 +31,9 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Manage. Deploy.
+    title: Welcome to the Antiguan Syndicate 
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    subtitle: The Antiguan Syndicate is a unique association that uses technology to benefit Antigua and its members by providing unique opportunities. We are dedicated to helping our members take advantage of the latest technology and create innovative solutions for Antigua’s citizens. Our members have access to resources such as nonprofit organizations, educational classes, and networking events that help them connect with other professionals in the tech industry. We also provide our members with access to exclusive job listings, internships, and other opportunities to help them reach their goals. Join us today and become part of a forward-thinking community that is dedicated to helping Antigua reach its fullest potential.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
@@ -45,21 +45,21 @@ params:
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Features
+  - title: Our Story
     url: /
-  - title: Pricing
+  - title: See Our Members
     url: /
-  - title: Dropdown
+  - title: Activities
     sublinks:
-    - title: Dropdown item
+    - title: Association Work
       url: /
-    - title: Dropdown item
+    - title: Special Job Oppertunities
       url: /
-    - title: Dropdown item
+    - title: Charity work
       url: /
-  - title: Log in
+  - title: Join Us
     url: /
-  - title: Sign up
+  - title: Socials
     url: /
     button: true
   sidebar:
@@ -97,7 +97,7 @@ params:
       - text: App settings
         url: /
   section1:
-    title: Great power comes
+    title: Unlock Your Potential with The Antiguan Syndicate!
     subtitle: with great responsibility
     tiles:
     - title: App builder
