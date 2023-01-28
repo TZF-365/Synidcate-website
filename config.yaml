@@ -42,9 +42,9 @@ params:
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
-    - marmaj
-    - rcs
-    - fotcp
+    - marmaj.png
+    - rcs.png
+    - fotcp.png
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
@@ -69,22 +69,22 @@ params:
     title: Fields we want to expand on and explore in the country alongside our partners.
     subtitle: Five industries of intresets.
     tiles:
-    - title: Technology
+    - title: TSRI
       icon: technology-machinery
       text: Technologies, Systems, Research, and Innovations
       url: /
       buttonText: Get started
-    - title: Government
+    - title: AMEL
       icon: government-building
       text: Administration, Management, Economics, and legality
       url: /
       buttonText: Get started
-    - title: Entrepreneurship
+    - title: BERN
       icon: bulb-on
       text: Business, Entrepreneurship, Research, negotiations
       url: /
       buttonText: Get started
-    - title: NGO & Education
+    - title: ACCEL
       icon: education-learning
       text: Advocacy, Charity, Culture, Event, Learning
       url: /
