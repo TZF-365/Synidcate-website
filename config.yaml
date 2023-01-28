@@ -28,7 +28,7 @@ params:
     height: 28
   font:
     name: "Open Sans"
-    sizes: [400,600]
+    sizes: [600,600]
   hero:
     # Main hero title
     title: Welcome to the Antiguan Syndicate 
@@ -37,11 +37,16 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: /#section1
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
+    - systek
+    - tribe
+    - kromo
+    - infinite
+    - gutwork
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
@@ -62,57 +67,68 @@ params:
   - title: Socials
     url: /
     button: true
-  sidebar:
-    # Logo (from /images/logos/___.svg)
-    logo: fresh-square
-    sections:
-    - title: User
-      icon: user
-      links:
-      - text: Profile
-        url: /
-      - text: Account
-        url: /
-      - text: Settings
-        url: /
-    - title: Messages
-      icon: envelope
-      links:
-      - text: Inbox
-        url: /
-      - text: Compose
-        url: /
-    - title: Images
-      icon: image
-      links:
-      - text: Library
-        url: /
-      - text: Upload
-        url: /
-    - title: Settings
-      icon: cog
-      links:
-      - text: User settings
-        url: /
-      - text: App settings
-        url: /
+  # Disabled
+  # sidebar:
+  #   # Logo (from /images/logos/___.svg)
+  #   logo: fresh-square
+  #   sections:
+  #   - title: User
+  #     icon: user
+  #     links:
+  #     - text: Profile
+  #       url: /
+  #     - text: Account
+  #       url: /
+  #     - text: Settings
+  #       url: /
+  #   - title: Messages
+  #     icon: envelope
+  #     links:
+  #     - text: Inbox
+  #       url: /
+  #     - text: Compose
+  #       url: /
+  #   - title: Images
+  #     icon: image
+  #     links:
+  #     - text: Library
+  #       url: /
+  #     - text: Upload
+  #       url: /
+  #   - title: Settings
+  #     icon: cog
+  #     links:
+  #     - text: User settings
+  #       url: /
+  #     - text: App settings
+  #       url: /
   section1:
-    title: Unlock Your Potential with The Antiguan Syndicate!
-    subtitle: with great responsibility
+    title: Fields we want to expand on and explore in the country alongside our partners.
+    subtitle: Five industries of intresets.
     tiles:
-    - title: App builder
-      icon: mouse-globe
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Free trial
-    - title: Cloud integration
-      icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
+    - title: Technology
+      icon: technology-machinery
+      text: Technologies, Systems, Research, and Innovations
       url: /
       buttonText: Get started
-    - title: Add-ons & plugins
-      icon: plug-cloud
-      text: This is some explanatory text that is on two rows
+    - title: Government
+      icon: government-building
+      text: Administration, Management, Economics, and legality
+      url: /
+      buttonText: Get started
+    - title: Entrepreneurship
+      icon: bulb-on
+      text: Business, Entrepreneurship, Research, negotiations
+      url: /
+      buttonText: Get started
+    - title: NGO & Education
+      icon: education-learning
+      text: Advocacy, Charity, Culture, Event, Learning
+      url: /
+      buttonText: Get started
+    - title: Finance 
+      icon: finance-markting
+      text: Finance, Advisory, Audits, and Tracking
       url: /
       buttonText: Get started
   section2:

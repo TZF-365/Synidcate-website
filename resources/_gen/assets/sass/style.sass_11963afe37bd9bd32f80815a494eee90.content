@@ -4851,6 +4851,7 @@ label.panel-block {
   flex-basis: 0;
   flex-grow: 1;
   flex-shrink: 1;
+  flex-wrap: wrap;
   padding: 0.75rem; }
   .columns.is-mobile > .column.is-narrow {
     flex: none; }
@@ -6513,12 +6514,17 @@ Classes to change the feel of bulma buttons
 /* ==========================================================================
 Cards and Card content styles
 ========================================================================== */
+.card-display {
+  display: flex;
+  flex-wrap: wrap; }
+
 .feature-card {
   width: 300px;
   height: 320px;
   background-color: #fff;
   border-radius: 3px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  flex-wrap: wrap; }
   .feature-card .card-title h4 {
     font-family: 'Open Sans', sans-serif;
     padding-top: 25px;
