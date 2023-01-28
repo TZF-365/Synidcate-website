@@ -21,11 +21,11 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    #image: logos/fresh.svg (Take off the "#" in order to put the logo back)
-    #link: /   (Take off the "#" in order to put the logo back)
+    image: logos/fresh.svg 
+    link: /   
     # Default width/height. Uncomment if you need to change
-    # width: 112
-    # height: 28
+    width: 112
+    height: 28
   font:
     name: "Open Sans"
     sizes: [400,600]
@@ -33,7 +33,7 @@ params:
     # Main hero title
     title: Welcome to the Antiguan Syndicate 
     # Hero subtitle (optional)
-    subtitle: The Antiguan Syndicate is a unique association that uses technology to benefit Antigua and its members by providing unique opportunities. We are dedicated to helping our members take advantage of the latest technology and create innovative solutions for Antigua’s citizens. Our members have access to resources such as nonprofit organizations, educational classes, and networking events that help them connect with other professionals in the tech industry. We also provide our members with access to exclusive job listings, internships, and other opportunities to help them reach their goals. Join us today and become part of a forward-thinking community that is dedicated to helping Antigua reach its fullest potential.
+    subtitle: The Antiguan Syndicate is a unique association that uses technology to benefit Antigua and its members by providing unique opportunities.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
@@ -46,9 +46,9 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Our Story
-    url: /
+    url: /story
   - title: See Our Members
-    url: /
+    url: /members
   - title: Activities
     sublinks:
     - title: Association Work
