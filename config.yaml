@@ -33,7 +33,7 @@ params:
     # Main hero title
     title: Welcome to the Antiguan Syndicate 
     # Hero subtitle (optional)
-    subtitle: The Antiguan Syndicate is a unique association that uses technology to benefit Antigua and its members by providing unique opportunities.
+    subtitle: Antiguan Syndicate is a unique association that uses technology to benefit Antigua and its members by providing unique opportunities.
     # Button text
     buttontext: Get started
     # Where the main hero button links to
@@ -46,9 +46,9 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Our Story
-    url: /story
+    url: /members.yaml
   - title: See Our Members
-    url: /members
+    url: /
   - title: Activities
     sublinks:
     - title: Association Work
