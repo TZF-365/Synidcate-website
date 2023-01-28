@@ -63,7 +63,7 @@ params:
   - title: Join Us
     url: /action
   - title: Socials
-    url: /
+    url: /#footer
     button: true
   section1:
     title: Fields we want to expand on and explore in the country alongside our partners.
@@ -132,13 +132,21 @@ params:
   section5: true
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: mouse-globe.svg
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-      icon: https://www.facebook.com/techsyndicate.anu?mibextid=ZbWKwL
-    - link: https://facebook.com/#
+    - link: https://github.com/lucperkins/github-fresh
+      icon: github
+    - link: https://dribbble.com/#
+      icon: dribbble
+    - link: https://www.facebook.com/techsyndicate.anu?mibextid=ZbWKwL
+      icon: facebook
+    - link: 
+      icon: twitter
+    - link: https://bitbucket.org/#
+      icon: bitbucket
     bulmalogo: true
     quicklinks:
       column1:

@@ -20,10 +20,7 @@ If you have any questions or would like to learn more about us, please don't hes
 Thank you for considering the Antiguan Tech Syndicate for your technology needs.
 
 # Our Team
-
-{{EmployeeName1}} - {{EmployeePosition1}}
-
-{{EmployeeName2}} - {{EmployeePosition2}}
+<table><thead><tr><th>Employee name</th><th>Industry of Interest</th></tr></thead><tbody><tr><td>Glenville Dixon Jr</td><td>Technology, management sales</td></tr><tr><td>Jabari Gyasi Charles</td><td>Carpentry</td></tr><tr><td>Ubani Ucon Jr. Danvers</td><td>Media/Business/Entertainment/Marketing</td></tr><tr><td>Tezuki Wilson</td><td>Real Estate</td></tr><tr><td>Keshaun Devonté Bowen</td><td>Technology and Computer Science</td></tr><tr><td>Tezuki Wilson</td><td>Real Estate and material handling</td></tr><tr><td>DeVonté O Tonge</td><td>Technology</td></tr><tr><td>Esahtengang Asonganyi Junior</td><td>Software engineer</td></tr><tr><td>Kyle Michael King</td><td>MERN-stack developer</td></tr><tr><td>Jamal J. A. Solomon</td><td>Tech field (software development, software-hardware integration and IT systems maintenance), Renewable energy industry among others</td></tr><tr><td>Shemar ARG. Abel</td><td>Computer Science</td></tr></tbody></table>
 
 ...
 
