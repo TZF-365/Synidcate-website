@@ -42,66 +42,29 @@ params:
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
-    - systek
-    - tribe
-    - kromo
-    - infinite
-    - gutwork
+    - marmaj
+    - rcs
+    - fotcp
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Our Story
-    url: /members.yaml
+    url: /about
   - title: See Our Members
-    url: /
+    url: /members
   - title: Activities
     sublinks:
     - title: Association Work
-      url: /
+      url: /activities/#Association Work
     - title: Special Job Oppertunities
-      url: /
+      url: /activities/#Special Job Oppertunities
     - title: Charity work
-      url: /
+      url: /activities/#Charity work
   - title: Join Us
-    url: /
+    url: /action
   - title: Socials
     url: /
     button: true
-  # Disabled
-  # sidebar:
-  #   # Logo (from /images/logos/___.svg)
-  #   logo: fresh-square
-  #   sections:
-  #   - title: User
-  #     icon: user
-  #     links:
-  #     - text: Profile
-  #       url: /
-  #     - text: Account
-  #       url: /
-  #     - text: Settings
-  #       url: /
-  #   - title: Messages
-  #     icon: envelope
-  #     links:
-  #     - text: Inbox
-  #       url: /
-  #     - text: Compose
-  #       url: /
-  #   - title: Images
-  #     icon: image
-  #     links:
-  #     - text: Library
-  #       url: /
-  #     - text: Upload
-  #       url: /
-  #   - title: Settings
-  #     icon: cog
-  #     links:
-  #     - text: User settings
-  #       url: /
-  #     - text: App settings
-  #       url: /
   section1:
     title: Fields we want to expand on and explore in the country alongside our partners.
     subtitle: Five industries of intresets.
