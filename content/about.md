@@ -25,5 +25,8 @@ Thank you for considering the Antiguan Tech Syndicate for your technology needs.
 ...
 
 # Contact Us
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSffA2Ywh_qnB0tWp7ESReB4kKfHDTWnBme8f0e8-BlY-i1n-w/viewform?embedded=true" width="640" height="844" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<html>
+    <center> 
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSffA2Ywh_qnB0tWp7ESReB4kKfHDTWnBme8f0e8-BlY-i1n-w/viewform?embedded=true" width="640" height="844" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    </center>
+</html>
