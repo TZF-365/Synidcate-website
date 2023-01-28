@@ -137,7 +137,7 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-      icon: https://www.facebook.com/techsyndicate.anu?mibextid=ZbWKwL
+    - icon: https://www.facebook.com/techsyndicate.anu?mibextid=ZbWKwL
     - link: https://facebook.com/#
     bulmalogo: true
     quicklinks:
