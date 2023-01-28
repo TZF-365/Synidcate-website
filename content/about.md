@@ -25,13 +25,8 @@ Thank you for considering the Antiguan Tech Syndicate for your technology needs.
 ...
 
 # Contact Us
-
-The Antiguan Tech Syndicate
-
-{{Address}}
-
-{{PhoneNumber}}
-
-{{Email}}
-
-Antiguan Syndicate is a unique association that uses technology to benefit Antigua and its members by providing unique opportunities. We are dedicated to helping our members take advantage of the latest technology and create innovative solutions for Antigua’s citizens. Our members have access to resources such as nonprofit organizations, educational classes, and networking events that help them connect with other professionals in the tech industry. We also provide our members with access to exclusive job listings, internships, and other opportunities to help them reach their goals. Join us today and become part of a forward-thinking community that is dedicated to helping Antigua reach its fullest potential.
+<html>
+    <center> 
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSffA2Ywh_qnB0tWp7ESReB4kKfHDTWnBme8f0e8-BlY-i1n-w/viewform?embedded=true" width="640" height="844" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    </center>
+</html>
