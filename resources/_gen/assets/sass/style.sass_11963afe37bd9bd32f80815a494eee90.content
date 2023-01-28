@@ -6516,7 +6516,9 @@ Cards and Card content styles
 ========================================================================== */
 .card-display {
   display: flex;
-  flex-wrap: wrap; }
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center; }
 
 .feature-card {
   width: 300px;

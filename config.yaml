@@ -132,18 +132,17 @@ params:
       url: /
       buttonText: Get started
   section2:
-    title: You're here because you want the best
-    subtitle: And we know it
+    title: Join Our Community of Investors and Grow Your Wealth Together
+    subtitle: Become a Member, Associate, or Investor Today and Start Reaping the Benefits.
     features:
-    - title: Powerful and unified interface
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      # Icon (from /images/illustrations/icons/___.svg)
+    - title: Partnership Opportunities
+      text: We are partnered with over 6 highly influential companies with external connections so we can provide jobs to members and many more will be on the way as we expand
       icon: laptop-globe
-    - title: Cross-device synchronisation
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Entrepreneurial Resources
+      text: For more entrepreneurial-minded folks you will be able to access syndicate data and resources to use at your disposal for the execution of your idea.
       icon: doc-sync
-    - title: Nomad system
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Make a Difference in Antigua
+      text: You will be able to engage in activities that directly improve the nation of Antigua and Barbuda from nonprofit ventures or provide value for customers in Antigua willing to pay
       icon: mobile-feed
   section3:
     title: One platform

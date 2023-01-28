@@ -6,7 +6,10 @@ Cards and Card content styles
 .card-display{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;  
 }
+
 // Feature Card
 .feature-card {
     width: 300px;
