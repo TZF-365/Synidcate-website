@@ -137,21 +137,8 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-<<<<<<< HEAD
-    - link: https://github.com/lucperkins/github-fresh
-      icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://www.facebook.com/techsyndicate.anu?mibextid=ZbWKwL
-      icon: facebook
-    - link: 
-      icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
-=======
     - icon: https://www.facebook.com/techsyndicate.anu?mibextid=ZbWKwL
     - link: https://facebook.com/#
->>>>>>> 14bc189196cce7ae055c06162840acfb528efe24
     bulmalogo: true
     quicklinks:
       column1:
