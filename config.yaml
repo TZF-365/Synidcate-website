@@ -132,14 +132,14 @@ params:
   section5: true
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: logos/syndicate-logo.png
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
     - link: https://www.facebook.com/techsyndicate.anu?mibextid=ZbWKwL
       icon: facebook
-    bulmalogo: true
+    bulmalogo: false
     quicklinks:
       column1:
         title: "Research Dep"
