@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: 
 languageCode: en-us
 title: Antigua Tech Syndicate
 theme: hugo-fresh
@@ -48,22 +48,29 @@ params:
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
+  - title: Home
+    url: /
   - title: About Us
-    url: /about
-  - title: Our Top Associates
-    url: /members
+    sublinks:
+    - title: About
+      url: /about
+    - title: Membership
+      url: /activities/#Special Job Oppertunities
+    - title: Rules and Guidelines
+      url: /activities/#Charity work
+
   - title: Activities
     sublinks:
-    - title: Association Work
+    - title: Research Department
       url: /activities/#Association Work
-    - title: Special Job Oppertunities
+    - title: Events 
       url: /activities/#Special Job Oppertunities
-    - title: Charity work
+    - title: Latest News
       url: /activities/#Charity work
-  - title: Join Us
+  - title: Roadmap
     url: /action
-  - title: Socials
-    url: /#footer
+  - title: Missions Board
+    url: https://trello.com/b/X9OChstQ/missions-board
     button: true
   section1:
     title: The 5 Pillars of The Syndicate.
@@ -125,14 +132,14 @@ params:
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
       job: Principals Of Wealth 
       img: 2
-    - name: Marma J Foundation 
+    - name: Marma J
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: 
+      job: Marma J Foundation
       img: 3
   section5: true
   footer:
     # Logo (from /images/logos/___)
-    logo: logos/syndicate-logo.png
+    logo: syndicate-logo.png
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
