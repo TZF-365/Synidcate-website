@@ -1,6 +1,6 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
-title: Antigua Syndicate
+title: Antigua Tech Syndicate
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -42,15 +42,15 @@ params:
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
-    - marmaj.png
-    - rcs.png
-    - fotcp.png
+    - marmaj
+    - rcs
+    - fotcp
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Our Story
+  - title: About Us
     url: /about
-  - title: See Our Members
+  - title: Our Top Associates
     url: /members
   - title: Activities
     sublinks:
@@ -66,12 +66,12 @@ params:
     url: /#footer
     button: true
   section1:
-    title: Fields we want to expand on and explore in the country alongside our partners.
-    subtitle: Five industries of intresets.
+    title: The 5 Pillars of The Syndicate.
+    subtitle: Five main branches, from technology to economics all perfectly organized.
     tiles:
     - title: TSRI
       icon: technology-machinery
-      text: Technologies, Systems, Research, and Innovations
+      text: Technologies, Systems, Research, and Innovation
       url: /
       buttonText: Get started
     - title: AMEL
@@ -95,11 +95,11 @@ params:
       url: /
       buttonText: Get started
   section2:
-    title: Join Our Community of Investors and Grow Your Wealth Together
-    subtitle: Become a Member, Associate, or Investor Today and Start Reaping the Benefits.
+    title: What We Offer
+    subtitle: In Our Endevor To Take The Advancement Of Our Country Into Our Own Hands.
     features:
     - title: Partnership Opportunities
-      text: We are partnered with over 6 highly influential companies with external connections so we can provide jobs to members and many more will be on the way as we expand
+      text: 
       icon: laptop-globe
     - title: Entrepreneurial Resources
       text: For more entrepreneurial-minded folks you will be able to access syndicate data and resources to use at your disposal for the execution of your idea.
@@ -108,24 +108,25 @@ params:
       text: You will be able to engage in activities that directly improve the nation of Antigua and Barbuda from nonprofit ventures or provide value for customers in Antigua willing to pay
       icon: mobile-feed
   section3:
-    title: One platform
-    subtitle: To rule them all
+    title: Join Us
+    subtitle: In Our Endevor To Take The Advancement Of Our Country Into Our Own Hands.
     image: illustrations/mockups/app-mockup.png
     buttonText: Get started
     buttonLink: "#"
   section4:
-    title: Our Clients love us!
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    title: Our Partners and Associates!
+    subtitle: We are partnered with over 10 for profit and non profit organizations wo share the same vision that we do so we can help make Antigua better tomorrow than it was yesterday.
     clients:
-    - name: Irma Walters
+    - name: Restore a Sense of I Can (RSC)
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
+      Company type: Non Profit
+      Status: Associate
       img: 1
-    - name: John Bradley
+    - name: Principals Of Wealth (POW)
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
       job: Financial Analyst
       img: 2
-    - name: Gary Blackman
+    - name: Marma J Foundation 
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
       job: HR Manager
       img: 3
@@ -137,38 +138,38 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - icon: https://www.facebook.com/techsyndicate.anu?mibextid=ZbWKwL
-    - link: https://facebook.com/#
+    - icon: facebook
+    - link: https://www.facebook.com/techsyndicate.anu?mibextid=ZbWKwL
     bulmalogo: true
     quicklinks:
       column1:
-        title: "Product"
+        title: "Research Department"
         links:
-        - text: Discover features
+        - text: Research Archive
           link: /
         - text: Why choose our product?
           link: /
-        - text: Compare features
+        - text: Research Submission 
           link: /
-        - text: Our roadmap
+        - text: UWI Five Islands Antigua
           link: /
-        - text: AGB
+        - text: Antigua State College
           link: /agb
       column2:
-        title: "Docs"
+        title: "More Details"
         links:
         - text: Get started
           link: /
-        - text: User guides
+        - text: Latest Events
           link: /
-        - text: Admin guide
+        - text: Syndicate Roadmap
           link: /
-        - text: Developers
+        - text: Missions Board
           link: /
       column3:
-        title: "Blog"
+        title: "Content"
         links:
-        - text: Latest news
+        - text: Latest Blog Posts
           link: /blog/first
-        - text: Tech articles
+        - text: Newsletter
           link: /blog/second
