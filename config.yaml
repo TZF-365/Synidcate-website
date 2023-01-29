@@ -80,27 +80,27 @@ params:
       icon: technology-machinery
       text: Technologies, Systems, Research, and Innovation
       url: /
-      buttonText: Get started
+      buttonText: Learn More
     - title: AMEL
       icon: government-building
       text: Administration, Management, Economics, and legality
       url: /
-      buttonText: Get started
+      buttonText: Learn More
     - title: BERN
       icon: bulb-on
       text: Business, Entrepreneurship, Research, negotiations
       url: /
-      buttonText: Get started
+      buttonText: Learn More
     - title: ACCEL
       icon: education-learning
       text: Advocacy, Charity, Culture, Event, Learning
       url: /
-      buttonText: Get started
+      buttonText: Learn More
     - title: FIAT
       icon: finance-markting
       text: Finance, Advisory, Audits, and Tracking
       url: /
-      buttonText: Get started
+      buttonText: Learn More
   section2:
     title: Our Mission & Vision
     subtitle: Our Goals, Aspiratons and Ideals.
