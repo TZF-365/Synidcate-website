@@ -95,17 +95,17 @@ params:
       url: /
       buttonText: Get started
   section2:
-    title: What We Offer
-    subtitle: In Our Endevor To Take The Advancement Of Our Country Into Our Own Hands.
+    title: Our Mission & Vision
+    subtitle: Our Goals, Aspiratons and Ideals.
     features:
-    - title: Partnership Opportunities
-      text: 
+    - title: Provisions  
+      text: We aim to provide research, education, and collaboration opportunities to drive sustainable economic growth.
       icon: laptop-globe
-    - title: Entrepreneurial Resources
-      text: For more entrepreneurial-minded folks you will be able to access syndicate data and resources to use at your disposal for the execution of your idea.
+    - title: Oppertunity
+      text: We will maintain a vibrant, equitable, and sustainable organisation in order To foster an environment of opportunity and inclusive growth.
       icon: doc-sync
-    - title: Make a Difference in Antigua
-      text: You will be able to engage in activities that directly improve the nation of Antigua and Barbuda from nonprofit ventures or provide value for customers in Antigua willing to pay
+    - title: Promise
+      text: We ensure that with your assistance we will continue to do our absolute best to create change that will benefit the people of Antigua and Barbuda.
       icon: mobile-feed
   section3:
     title: Join Us
@@ -117,33 +117,32 @@ params:
     title: Our Partners and Associates!
     subtitle: We are partnered with over 10 for profit and non profit organizations wo share the same vision that we do so we can help make Antigua better tomorrow than it was yesterday.
     clients:
-    - name: Restore a Sense of I Can (RSC)
+    - name: (RSC)
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      Company type: Non Profit
-      Status: Associate
+      job: Restore A Sense Of I Can
       img: 1
-    - name: Principals Of Wealth (POW)
+    - name: (POW)
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
+      job: Principals Of Wealth 
       img: 2
     - name: Marma J Foundation 
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
+      job: 
       img: 3
   section5: true
   footer:
     # Logo (from /images/logos/___)
-    logo: mouse-globe.svg
+    logo: fresh-white-alt.svg
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - icon: facebook
     - link: https://www.facebook.com/techsyndicate.anu?mibextid=ZbWKwL
+      icon: facebook
     bulmalogo: true
     quicklinks:
       column1:
-        title: "Research Department"
+        title: "Research Dep"
         links:
         - text: Research Archive
           link: /
@@ -165,6 +164,8 @@ params:
         - text: Syndicate Roadmap
           link: /
         - text: Missions Board
+          link: /
+        - text: Current Progress
           link: /
       column3:
         title: "Content"
