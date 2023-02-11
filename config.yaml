@@ -50,23 +50,23 @@ params:
   navbar:
   - title: Home
     url: /
-  - title: About Us
+  - title: Our Organization
     sublinks:
-    - title: About
+    - title: About Us
       url: /about
     - title: Membership
-      url: /activities/#Special Job Oppertunities
+      url: /membership
     - title: Rules and Guidelines
-      url: /activities/#Charity work
+      url: /guidelines
 
-  - title: Activities
+  - title: Activity
     sublinks:
     - title: Research Department
-      url: /activities/#Association Work
+      url: /research
     - title: Events 
-      url: /activities/#Special Job Oppertunities
+      url: /events
     - title: Latest News
-      url: /activities/#Charity work
+      url: /news
   - title: Roadmap
     url: /action
   - title: Missions Board
