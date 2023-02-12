@@ -1,5 +1,5 @@
 ---
-title: "Membership (WIP)"
+title: "Getting started with the Syndicate"
 date: 2023-01-28T11:05:54-04:00
 draft: false
 url: /membership
@@ -29,3 +29,11 @@ There are only 8 rules to bring new members:
 ## How to maintain your membership
 Maintain your membership by completing assigned tasks, having open communication with the
 organization and drafting and submitting your own ideas as well as continuing to evolve your own career.
+
+# <p style="text-align: center;">Join Our Team</p>
+
+<html>
+    <center>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSffA2Ywh_qnB0tWp7ESReB4kKfHDTWnBme8f0e8-BlY-i1n-w/viewform?embedded=true" width="740" height="1079" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    </center>
+</html>

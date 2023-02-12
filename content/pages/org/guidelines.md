@@ -7,8 +7,7 @@ include_footer: true
 ---
 # Here's our rules
 <html>
-<object data="The Antiguan Syndicate.odt" type="application/msword" width="600" height="780">
-  <p>It appears your browser does not support displaying Word documents. Please download the file to view it: <a href="The Antiguan Syndicate.odt">Download</a>.</p>
-</object>
-
+    <center> 
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vS4pylyQfmnf23uo7D76jaV0AiHqTr0V3vTZWVM1Dfn5szGZgQDlm6cJpBG10LjWhwMFS_p15gKhwVv/pub?embedded=true" >Loading…</iframe>
+    </center>
 </html>
