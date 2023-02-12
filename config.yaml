@@ -68,7 +68,7 @@ params:
     - title: Latest News
       url: /news
   - title: Roadmap
-    url: /action
+    url: /roadmap
   - title: Missions Board
     url: https://trello.com/b/X9OChstQ/missions-board
     button: true
